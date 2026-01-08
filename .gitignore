@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# YOLO / ML files
+*.pt
+
+# Video outputs
+*.avi
+*.mp4
+
+# OS junk
+.DS_Store
+Thumbs.db
